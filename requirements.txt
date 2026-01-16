@@ -1,0 +1,16 @@
+# Data requiring and processing
+yfinance
+pandas
+numpy
+
+# Statistic and forcasting model
+statsmodels
+arch
+scipy
+
+# Data Visualisation
+matplotlib
+seaborn
+
+# Environment
+ipykernel
